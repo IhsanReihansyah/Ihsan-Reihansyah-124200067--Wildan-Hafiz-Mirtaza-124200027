@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94585871430",
+    "project_id": "harrypotter-6ee43",
+    "storage_bucket": "harrypotter-6ee43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94585871430:android:c93ef1c7717fe2026f3e47",
+        "android_client_info": {
+          "package_name": "com.example.cobaapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94585871430-qt6tlregnjvk2vtopeiv4qacau5c9ite.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPK_Rch4_OsO-FH1dYvL7sxpQeyZPl49A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94585871430-qt6tlregnjvk2vtopeiv4qacau5c9ite.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
